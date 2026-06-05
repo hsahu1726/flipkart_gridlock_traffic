@@ -23,7 +23,7 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost
 
 The baseline training cell writes an intermediate `submission.csv`. The advanced temporal residual cell then overwrites it with the final prediction, so the notebook must be run through the last cell.
 
-## Input Files
+## Input Files :
 
 The competition zip should contain:
 
